@@ -1,5 +1,5 @@
 # portal_berita
-
+Pelatihan Membuat Applikasi Portal berita dengan Flutter
 A new Flutter project.
 
 ## Getting Started
